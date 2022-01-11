@@ -1,6 +1,6 @@
 Hey folks, I’m @Ragunathan 👋
-- 👀 I’m interested in Java,Javascript,react,reactnative,SpringBoot.
-- 📖 I’m currently learning React ✌️
+- 👀 I have work experience in Java,Javascript,ReactJS,SpringBoot,Express.
+- 📖 I’m currently learning React and Node (Express framework) ✌️
 - 📧 reach me via email #raghunathan731@gmail.com
 
 <!---
