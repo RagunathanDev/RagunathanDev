@@ -1,5 +1,5 @@
 Hey folks, I’m @Ragunathan 👋
-- 👀 I have work experience in Java,Javascript,ReactJS,SpringBoot,Express.
+- 👀 I have work experience in Java,Spring framework (Spring MVC, SpringBoot, Spring Batch),Javascript,ReactJS,NodeJS(Express), Apache Kafka.
 - 📖 I’m currently learning React and Node (Express framework) ✌️
 - 📧 reach me via email #raghunathan731@gmail.com
 
